@@ -1,4 +1,4 @@
-# PythonDataVisualizationProject
+# Python Data Visualization Project
 Final project that was completed within the scope of the course "Applied Plotting, Charting and Data Representation in Python" offered by the University of Michigan on Coursera.
 
 The goal was to find 2 (or more) datasets on the web that are related and use them to produce a visualization that answers a question of personal interest.
